@@ -1,8 +1,8 @@
 {
     "env" : {
     "MYSQL_USER" : "root",
-    "MSYQL_PASSWORD" : "123456big",
-    "MYSQL_DATABASE" : "ecommerce",
+    "MSYQL_PASSWORD" : "",
+    "MYSQL_DATABASE" : "monteazul",
     "MYSQL_HOST" : "localhost",
     "MYSQL_PORT" : 3306,
 

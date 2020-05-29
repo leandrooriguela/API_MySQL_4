@@ -1,4 +1,5 @@
 const mysql = require('../mysql').pool;
+var fs = require('fs');
 
 exports.getProdutos = (req, res, next) => {
     mysql.getConnection((error, conn) => {
